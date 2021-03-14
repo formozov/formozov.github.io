@@ -1,8 +1,8 @@
----
-title: Hello, world!
+layout: post
+title: "Hello, world!"
 author: ANDREY
-date: 14.01.2018
----
+date: 2018-01-14 hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
 
 ### Hello, world!
 
