@@ -6,7 +6,7 @@ date: 14.01.2018
 
 ### Hello, world!
 
-“Man is the measure of all things” Protagoras
+*“Man is the measure of all things” Protagoras*
 
 Hi!
 
