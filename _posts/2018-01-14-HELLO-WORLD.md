@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Hello, world!"
-date: 2018-01-14 00:00:00 -0000
-categories: ARCHIVE
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
 ---
 
 ### Hello, world!
