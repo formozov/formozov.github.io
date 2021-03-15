@@ -1,9 +1,3 @@
----
-layout: post
-title: "Hello, world!"
-date: 2018-01-15 00:00:00 -0000
-categories: ARCHIVE
----
 
 ### Just a Small Piece of “Philosophy”
 
