@@ -20,7 +20,7 @@ Here they are :
 
 ### General  laboratory techniques
 
-- Single-cell electroporation of neurons
+- [Single-cell electroporation of neurons](https://pubmed.ncbi.nlm.nih.gov/28148856/)
 - 2-photon microscopy
 - Confocal microscopy
 
@@ -65,7 +65,7 @@ Here they are :
 
 ### Computing
 
-- Python (Numpy, Scipy, Pandas, scikit-learn, Matplotlib, Seaborn, Plotly, Bokeh)
+- Python (Numpy, Scipy, Pandas, [scikit-learn](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html), Matplotlib, Seaborn, Plotly, Bokeh)
 - C++
 - Matlab
 - Real-time data steaming and extraction of principle variables (if the state is changing)
