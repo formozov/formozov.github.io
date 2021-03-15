@@ -72,4 +72,4 @@ Here they are :
 - Data mining from biological systems
 - Time series processing
 - Machine-learning
-- Neuron networks and deep-learning (Tensorflow, Theano, Pytorch and others )
+- Neuron networks and deep-learning (Tensorflow, Theano, Pytorch and [others](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software) )
