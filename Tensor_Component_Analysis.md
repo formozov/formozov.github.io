@@ -7,6 +7,10 @@
 
 - In Figure 2 there will be a rigit "detection" layer. The layer could be extimated with ground truth (simulation availible?).
 
+Extra:
+
+- Single neuron: conditional light expression 
+
 
 
 
