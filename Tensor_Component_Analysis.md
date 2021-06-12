@@ -5,5 +5,7 @@
 
 - You need to make convolution with gauss back
 
-- In Figure 2 there will be a rigit "detection" layer.
+- In Figure 2 there will be a rigit "detection" layer. The layer could be extimated with ground truth.
+
+
 
