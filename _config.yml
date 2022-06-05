@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: NEUROBLOG
-description: Someday, the Most Complete Guide on (Neuro)Biological Interfaces
+description: Someday, the Most Complete Guide on Neuro-Biological Interfaces
+
+show_excerpts: true
