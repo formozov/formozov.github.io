@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.umm.uni-heidelberg.de/medical-faculty-mannheim/neurophysiology'>Department of Neurophysiology</a>. Department of Neurophysiology, MCTN, Medical Faculty Mannheim, Heidelberg University, 68167 Mannheim, Germany
 
 profile:
   align: right
-  image: interface.jpg
+  image: labpic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Neurophysiology</p>
