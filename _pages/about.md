@@ -21,5 +21,3 @@ social: true # includes social icons at the bottom of the page
 ---
 
 This webpage is dedicated to establishing neurobiological computing. We aim to develop innovative software and hardware techniques to explore brain function, combining theory, experiment, and computational modeling with a focus on all-optical interfaces. The approaches span from basic photometric methods to complex analyses involving thousands of neurons to brain computations under various conditions and help uncover the fundamental computational models that the brain can emulate.
-
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
