@@ -1,8 +1,16 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-03-13 14:43:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+The project based on <a href="https://doi.org/10.1016/j.crmeth.2023.100418">the technique we recently developed</a> was supported with ERC PoC grant for practical realization! More info on Heidelberg university <a href="https://www.uni-heidelberg.de/en/newsroom/neurobiologist-prof-dr-simon-wiegert-receives-funding-from-the-european-research-council">webpage</a>.
+
+
+
+
+
+
+
+
