@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.umm.uni-heidelberg.de/medical-faculty-mannheim/neurophysiology'>Department of Neurophysiology</a>. Department of Neurophysiology, MCTN, Medical Faculty Mannheim, Heidelberg University, 68167 Mannheim, Germany
+subtitle: <a href='https://www.umm.uni-heidelberg.de/medical-faculty-mannheim/neurophysiology'>Department of Neurophysiology, MCTN, Medical Faculty Mannheim, Heidelberg University</a>.
 
 profile:
   align: right
   image: labpic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Neurophysiology</p>
+    <p>Address:</p>
     <p>Tridomus, Haus C</p>
     <p>Ludolf-Krehl-Straße 13-17</p>
     <p>68167 Mannheim</p>
@@ -20,8 +20,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+This webpage is dedicated to establishing neurobiological computing. We aim to develop innovative software and hardware techniques to explore brain function, combining theory, experiment, and computational modeling with a focus on all-optical interfaces. The approaches span from basic photometric methods to complex analyses involving thousands of neurons to brain computations under various conditions and help uncover the fundamental computational models that the brain can emulate.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
