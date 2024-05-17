@@ -6,7 +6,7 @@ subtitle: <a href='https://www.umm.uni-heidelberg.de/medical-faculty-mannheim/ne
 
 profile:
   align: right
-  image: labpic.jpg
+  image: Andrey-Formozov.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Address:</p>
